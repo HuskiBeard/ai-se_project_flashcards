@@ -1,0 +1,4 @@
+# Ignore generated files and archives
+*.zip
+*.log
+node_modules/
