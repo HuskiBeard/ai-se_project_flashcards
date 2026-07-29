@@ -1,4 +1,4 @@
-# My Very First Flash Cards App
+# Simple Flash Cards App
 
 A simple flash card web app for browsing decks and studying with an interactive carousel-style card viewer. Built with vanilla JavaScript, HTML, and CSS.  
 I created this app as part of my first project while attending Triple Tens Code Camp to display my skills in creating a functioning web app that can allow a user to study code terminology and other various helpful notes.
