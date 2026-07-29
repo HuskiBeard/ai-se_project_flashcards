@@ -40,3 +40,7 @@ Here's what you need:
 * GitHub Pages - easiest option if your code is already on GitHub.
 * Netlify or Vercel - drag-and-drop style deployment.
 * _Important!_ - Just make sure the assets folder (containing the CSS, JavaScript, and image files) stays in the same place relative to index.html when you upload it, since the app expects that folder structure to work correctly.
+
+## Deployed Site
+
+Check out [this site](https://huskibeard.github.io/ai-se_project_flashcards/) on GitHub Pages.
